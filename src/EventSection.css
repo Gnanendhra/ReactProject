@@ -1,0 +1,15 @@
+.events-list{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.event-section
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1300px;
+    max-width: 100vw;
+    flex-wrap: wrap;
+}

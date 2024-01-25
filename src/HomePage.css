@@ -1,0 +1,27 @@
+.homebg-container
+{
+  text-align: center;
+  max-height: 1000vh;
+  margin-bottom: -9px;
+ }
+.image-size
+{
+  width: 100vw;
+}
+
+.container
+{
+  display: flex;
+  flex-direction: column;
+}
+.event-selection
+{
+  display: flex;
+  justify-content: flex-start;
+}
+.head-section
+{
+    display: flex;
+    justify-content: space-between;
+}
+

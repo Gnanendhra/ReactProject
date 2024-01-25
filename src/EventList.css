@@ -1,0 +1,27 @@
+.event-list
+{
+    width: 300px;
+    max-width: 500px;
+    border-width: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.event-content
+{
+    display: flex;
+    flex-direction: column;
+}
+.event-timing
+{
+    display: flex;
+    justify-content: space-between;
+}
+.link-items
+{
+    text-decoration: none;
+}
+
+.event-image
+{
+    border-radius: 10px;
+}

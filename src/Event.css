@@ -1,0 +1,19 @@
+.event-details
+{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.event-image
+{
+    width:70vw;
+    height: 40vh;
+    border-radius: 15px;
+}
+.event-content
+{
+    display: flex;
+    flex-direction: column;
+}
